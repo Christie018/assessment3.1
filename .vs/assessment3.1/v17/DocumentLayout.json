@@ -5,6 +5,22 @@
     {
       "AbsoluteMoniker": "D:0:0:{C5CC5656-B3B3-403D-B01A-E86CB9FFA184}|assessment3.1\\assessment3.1.csproj|c:\\users\\mattied\\source\\repos\\assessment3.1\\assessment3.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C5CC5656-B3B3-403D-B01A-E86CB9FFA184}|assessment3.1\\assessment3.1.csproj|solutionrelative:assessment3.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5CC5656-B3B3-403D-B01A-E86CB9FFA184}|assessment3.1\\assessment3.1.csproj|c:\\users\\mattied\\source\\repos\\assessment3.1\\assessment3.1\\buildingprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5CC5656-B3B3-403D-B01A-E86CB9FFA184}|assessment3.1\\assessment3.1.csproj|solutionrelative:assessment3.1\\buildingprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5CC5656-B3B3-403D-B01A-E86CB9FFA184}|assessment3.1\\assessment3.1.csproj|c:\\users\\mattied\\source\\repos\\assessment3.1\\assessment3.1\\house.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5CC5656-B3B3-403D-B01A-E86CB9FFA184}|assessment3.1\\assessment3.1.csproj|solutionrelative:assessment3.1\\house.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5CC5656-B3B3-403D-B01A-E86CB9FFA184}|assessment3.1\\assessment3.1.csproj|c:\\users\\mattied\\source\\repos\\assessment3.1\\assessment3.1\\pyramid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5CC5656-B3B3-403D-B01A-E86CB9FFA184}|assessment3.1\\assessment3.1.csproj|solutionrelative:assessment3.1\\pyramid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5CC5656-B3B3-403D-B01A-E86CB9FFA184}|assessment3.1\\assessment3.1.csproj|c:\\users\\mattied\\source\\repos\\assessment3.1\\assessment3.1\\building.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5CC5656-B3B3-403D-B01A-E86CB9FFA184}|assessment3.1\\assessment3.1.csproj|solutionrelative:assessment3.1\\building.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,11 +43,64 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-20T00:11:17.256Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "House.cs",
+              "DocumentMoniker": "C:\\Users\\MattieD\\source\\repos\\assessment3.1\\assessment3.1\\House.cs",
+              "RelativeDocumentMoniker": "assessment3.1\\House.cs",
+              "ToolTip": "C:\\Users\\MattieD\\source\\repos\\assessment3.1\\assessment3.1\\House.cs",
+              "RelativeToolTip": "assessment3.1\\House.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T00:18:16.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pyramid.cs",
+              "DocumentMoniker": "C:\\Users\\MattieD\\source\\repos\\assessment3.1\\assessment3.1\\Pyramid.cs",
+              "RelativeDocumentMoniker": "assessment3.1\\Pyramid.cs",
+              "ToolTip": "C:\\Users\\MattieD\\source\\repos\\assessment3.1\\assessment3.1\\Pyramid.cs",
+              "RelativeToolTip": "assessment3.1\\Pyramid.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T00:18:47.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BuildingProgram.cs",
+              "DocumentMoniker": "C:\\Users\\MattieD\\source\\repos\\assessment3.1\\assessment3.1\\BuildingProgram.cs",
+              "RelativeDocumentMoniker": "assessment3.1\\BuildingProgram.cs",
+              "ToolTip": "C:\\Users\\MattieD\\source\\repos\\assessment3.1\\assessment3.1\\BuildingProgram.cs",
+              "RelativeToolTip": "assessment3.1\\BuildingProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T00:19:19.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Building.cs",
+              "DocumentMoniker": "C:\\Users\\MattieD\\source\\repos\\assessment3.1\\assessment3.1\\Building.cs",
+              "RelativeDocumentMoniker": "assessment3.1\\Building.cs",
+              "ToolTip": "C:\\Users\\MattieD\\source\\repos\\assessment3.1\\assessment3.1\\Building.cs",
+              "RelativeToolTip": "assessment3.1\\Building.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T00:17:43.371Z",
+              "EditorCaption": ""
             }
           ]
         }
